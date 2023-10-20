@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-    background: #212121;
+    background: #1f093a;;
     color: #a7c5fb;
 }
 
@@ -71,13 +71,12 @@ img {
     justify-content: flex-start;
     align-items: center;
     background: #1f093a;
-    border: 1px solid rgb(184, 236, 213);
     border-radius: 25px;
     padding: 10px;
     margin: 40px auto;
-    max-width: 320px;
-    height: 90vh;
-    width: 400px;
+    max-width: 350px;
+    height: 100vh;
+    width: 500px;
     overflow: auto;
 }
 
